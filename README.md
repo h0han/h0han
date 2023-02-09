@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Harry's%20GitHub&fontSize=40)
 
+<div align=center>
 ## 👋 Hi there, I'm Harry Hyunyoung Han 👋
 🔭 I’m currently working on **KAIST (Korea Advanced Institute of Technology & Science)**. I have a passion for improving HCI and UX in XR and metaverse environments. I earned a degree(BS in Engineering) in computer science with a focus on artificial intelligence and management engineering from DGIST. For a year and three months, I conducted research in computer vision, including Pose Estimation and Human Re-identification.
 
@@ -42,3 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
