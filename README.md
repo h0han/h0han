@@ -14,7 +14,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 <img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&layout=compact"> 
 
 ## 🔗 Personal Links 🔗
-<a href="https://www.linkedin.com/in/hyhan/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/> <a> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/hyhan/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/> <a> <a herf="mailto:hyhan.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/> <a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh0han%2Fhit-counter&count_bg=%2398B4DD&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
