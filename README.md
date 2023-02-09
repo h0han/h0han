@@ -10,14 +10,13 @@ As a researcher and PM, I have consistently aimed to align technology developmen
 My ultimate goal is to become an Insightful Tech Evangelist. I aspire to stay ahead of emerging technologies, apply them strategically, and drive growth through informed decision-making.
 
 ## 📚 Tech Stack 📚
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true">
 
 ## 🔗 Personal Links 🔗
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&layout=compact"><br><br> <img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true">
 
 <!--
 **h0han/h0han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
