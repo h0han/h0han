@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Harry's%20Github&fontSize=40)
 
-### Hi there 👋
+## Hi there 👋
 
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true&theme=radical)
+## 📚Tech Stack📚
+
+## 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true">
 
 <!--
 **h0han/h0han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
