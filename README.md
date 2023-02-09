@@ -9,8 +9,8 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 
 ## 📚 Tech Stack 📚
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
 
 <!-- GitHub Stats & MUL -->
 <img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&layout=compact"> 
