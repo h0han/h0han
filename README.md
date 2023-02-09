@@ -31,7 +31,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 <img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&hide=html,css&layout=compact"> 
 
 ## 🔗 Personal Links 🔗
-<a href="https://www.linkedin.com/in/hyhan/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/> </a> <a herf="hyhan.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/> </a> <a herf="https://twitter.com/harryonx"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/hyhan/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/> <a herf="hyhan.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/> <a herf="https://twitter.com/harryonx"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white"/> </a>
 
 
 ### ☀️ Today ☀️
