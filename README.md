@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Harry's%20Github&fontSize=40)
 
 ## Hi there, I'm Harry Hyunyoung Han 👋
-🔭 I’m currently working on KAIST (Korea Advanced Institute of Technology & Science). I have a passion for improving HCI and UX in XR and metaverse environments. I earned a degree(BS in Engineering) in computer science with a focus on artificial intelligence and management engineering from DGIST. For a year and three months, I conducted research in computer vision, including Pose Estimation and Human Re-identification.
+🔭 I’m currently working on **KAIST (Korea Advanced Institute of Technology & Science)**. I have a passion for improving HCI and UX in XR and metaverse environments. I earned a degree(BS in Engineering) in computer science with a focus on artificial intelligence and management engineering from DGIST. For a year and three months, I conducted research in computer vision, including Pose Estimation and Human Re-identification.
 
 For 1 year and 6 months, I worked as a PM at OnCloud9, a Web3 & Crypto Currency start-up, where I focused on designing and promoting interoperability in the blockchain and metaverse.
 
@@ -10,8 +10,15 @@ As a researcher and PM, I have consistently aimed to align technology developmen
 My ultimate goal is to become an Insightful Tech Evangelist. I aspire to stay ahead of emerging technologies, apply them strategically, and drive growth through informed decision-making.
 
 ## 📚 Tech Stack 📚
+<img src="https://img.shields.io/badge/#3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/#EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/#FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/#5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/#F37626?style=flat&logo=Jupyter&logoColor=white"/>
 
 ## 🔗 Personal Links 🔗
+<img src="https://img.shields.io/badge/#0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
+<img src="https://img.shields.io/badge/#EA4335?style=flat&logo=Gmail&logoColor=white"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true">
