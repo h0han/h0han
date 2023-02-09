@@ -8,7 +8,7 @@ For 1 year and 6 months, I worked as a PM at OnCloud9, a Web3 & Crypto Currency 
 My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to stay ahead of emerging technologies, apply them strategically, and drive growth through informed decision-making.
 
 
-### 🧑🏻‍💻 Research Interests 🧑🏻‍💻
+## 🧑🏻‍💻 Research Interests 🧑🏻‍💻
 - **Computer Graphics**
     - Generative Models : NeRF, Diffusion, GAN, VAE
 - **Computer Vision**
@@ -17,13 +17,20 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
     - WEB3(Crypto, Metaverse), Augmented Reality, Virtual Reality
 
 
-### 📚 Tech Stack 📚
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/><br> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"/><br> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/> 
+## 📚 Tech Stack 📚
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/><br> 
+
+### Freamworks 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"/><br> 
+
+### Environments
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/> 
 
 <!-- GitHub Stats & MUL -->
 <img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&layout=compact"> 
 
-### 🔗 Personal Links 🔗
+## 🔗 Personal Links 🔗
 <a href="https://www.linkedin.com/in/hyhan/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/> </a> <a herf="mailto:hyhan.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/> </a>
 
 ### ☀️ Today ☀️
