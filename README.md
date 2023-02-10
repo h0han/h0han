@@ -28,7 +28,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/> 
 
 <!-- GitHub Stats & MUL -->
-<img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true&layout=compact"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&hide=html,css&layout=compact"> 
+<img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true&theme=dracula"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&hide=html,css&layout=compact"> 
 
 <!-- ## 🔗 Personal Links 🔗
 <a href="https://www.linkedin.com/in/hyhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"></a> 
