@@ -18,6 +18,10 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 
 
 ## 📚 Tech Stack 📚
+
+<!-- Central Align -->
+<div align=center>
+
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/><br> 
 
@@ -39,6 +43,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 ### ☀️ Today ☀️
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh0han%2Fhit-counter&count_bg=%2398B4DD&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
