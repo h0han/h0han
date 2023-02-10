@@ -37,7 +37,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 <a herf="hyhan.dev@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"> 
 </a>
-<a herf="https://twitter.com/harryonnx"> 
+<a th herf="@{https://twitter.com/harryonnx}"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white">
 </a>
 
