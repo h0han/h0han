@@ -22,13 +22,13 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 <!-- Central Align -->
 <div align=center>
 
-### Languages
+### 📖 Languages 📖
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/><br> 
 
-### Freamworks 
+### 🔗 Frameworks 🔗
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=plastic&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"/><br> 
 
-### Environments
+### 🦕 Environments 🦕
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/> 
 
 <!-- GitHub Stats & MUL -->
@@ -39,7 +39,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 <a herf="hyhan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"></a>
 <a th herf="@{https://twitter.com/harryonnx}"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white"></a> -->
 
-
+<br><br>
 ### ☀️ Today ☀️
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh0han%2Fhit-counter&count_bg=%2398B4DD&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
