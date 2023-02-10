@@ -31,6 +31,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 ### 🦕 Environments 🦕
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/> 
 
+<br>
 <!-- GitHub Stats & MUL -->
 <img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true&theme=dracula"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&hide=html,css&layout=compact"> 
 
@@ -40,6 +41,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 <a th herf="@{https://twitter.com/harryonnx}"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white"></a> -->
 
 <br><br>
+
 ### ☀️ Today ☀️
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fh0han%2Fhit-counter&count_bg=%2398B4DD&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
