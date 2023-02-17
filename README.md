@@ -33,8 +33,8 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 
 <br>
 <!-- GitHub Stats & MUL -->
+    
 [![trophy](https://github-profile-trophy.vercel.app/?username=h0han&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frechele&hide_border=true)](https://git.io/streak-stats)
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=h0han&hide_border=true)](https://git.io/streak-stats)
     
