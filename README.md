@@ -33,7 +33,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 
 <br>
 <!-- GitHub Stats & MUL -->
-![GitHub Streak](https://streak-stats.demolab.com?user=h0han&theme=highcontrast&border_radius=4)(https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
     
 <img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true&theme=dracula"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&hide=html,css&layout=compact"> 
 
