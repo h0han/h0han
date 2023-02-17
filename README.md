@@ -33,9 +33,13 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 
 <br>
 <!-- GitHub Stats & MUL -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=h0han&hide_border=true)](https://git.io/streak-stats)
     
-<img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true&theme=dracula"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&hide=html,css&layout=compact"> 
+[![Harry's github status](https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true&hide_border=true)](https://github.com/frechele)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&hide_border=true&layout=compact)](https://github.com/frechele)
+
+<!--     
+<img src="https://github-readme-stats.vercel.app/api?username=h0han&show_icons=true&theme=dracula"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0han&hide=html,css&layout=compact">  -->
 
 <!-- ## 🔗 Personal Links 🔗
 <a href="https://www.linkedin.com/in/hyhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"></a> 
