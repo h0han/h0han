@@ -51,8 +51,8 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 </div>
 
 <div align=left>
-### :mailbox_with_mail: How to reach me
-- e-mail: hyhan.dev@gmail.com
+    ### :mailbox_with_mail: How to reach me
+    - e-mail: hyhan.dev@gmail.com
 </div>
 
 <div align=center>
