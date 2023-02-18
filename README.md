@@ -11,6 +11,8 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 ## 🧑🏻‍💻 Research Interests 🧑🏻‍💻
 - **Computer Graphics**
     - Generative Models : NeRF, Diffusion, GAN, VAE
+    ![Diffusion1](./img/diffusion1.PNG "Diffusion1")
+    ![Diffusion2](./img/diffusion1.PNG "Diffusion2")
 - **Computer Vision**
     - Related to Human : Pose Estimation, Segmentation, Detection
 - **ETC**
