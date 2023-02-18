@@ -12,7 +12,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
 - **Computer Graphics**
     - Generative Models : NeRF, Diffusion, GAN, VAE
     <img src="img/diffusion1.PNG" alt="Diffusion1" width="40%"/>
-    <img src="img/diffusion2.PNG" alt="Diffusion2" width="40%"/>
+    <img src="img/diffusion2.PNG" alt="Diffusion2" width="50%"/>
 - **Computer Vision**
     - Related to Human : Pose Estimation, Segmentation, Detection
 - **ETC**
