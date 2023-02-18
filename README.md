@@ -15,7 +15,7 @@ My ultimate goal is to **become an Insightful Tech Evangelist**. I aspire to sta
     <img src="img/diffusion2.PNG" alt="Diffusion2" width="40%"/>
 - **Computer Vision**
     - Related to Human : Pose Estimation, Segmentation, Detection
-    <img src="img/gif/OMG_output_clip_rsz.gif" alt="OMG" width="34%"/>
+    <img src="img/gif/OMG_output_clip_rsz.gif" alt="OMG" width="50%"/>
     <img src="img/gif/jpark_output_cvrt.gif" alt="JPARK" width="34%"/>
 - **ETC**
     - WEB3(Crypto, Metaverse), Augmented Reality, Virtual Reality
